@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Viren 👋
 
 Senior Software Engineer with 14+ years of experience building scalable web applications and cloud solutions.  
-I have worked on enterprise products, complex frontends, and cloud-native backends—owning features end-to-end.
+I have worked on enterprise products, complex frontends, and cloud-native backends owning features end-to-end.
 
 ## 🛠️ Technologies & Tools
 
