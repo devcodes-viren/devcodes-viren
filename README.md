@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 # Hi, I'm Viren 👋
 
 Senior Software Engineer with 14+ years of experience building scalable web applications and cloud solutions.  
-I have worked on enterprise products, complex frontends, and cloud-native backends owning features end-to-end.
+I have worked on enterprise products, complex frontends, and cloud-native backends owning features end-to-end. Leveraging Approved AI tools like GitHub Copilot, Copilot Chat, Microsoft Copilot, and ChatGPT to accelerate architecture design, code quality, refactoring, and problem‑solving. 
 
 ## 🛠️ Technologies & Tools
 
+- **AI:** (Org approved) GitHub Copilot, Copilot Chat, Active Prompts, Microsoft Copilot, ChatGPT (OpenAI), AI-assisted code review
 - **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS
 - **Backend:** .NET, Node.js
 - **Cloud & DevOps:** Azure, CI/CD, Docker, Kubernetes
