@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Viren 👋
+# Hi, I am Viren 👋
 
 Senior Software Engineer with 14+ years of experience building scalable web applications and cloud solutions.  
 I have worked on enterprise products, complex frontends, and cloud-native backends owning features end-to-end. Leveraging Approved AI tools like GitHub Copilot, Copilot Chat, Microsoft Copilot, and ChatGPT to accelerate architecture design, code quality, refactoring, and problem‑solving. 
