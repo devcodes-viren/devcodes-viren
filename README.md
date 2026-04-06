@@ -29,7 +29,7 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 
  🚀 Featured Work
 
-🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal
+🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal Party
 
 <!--
 ## 🚀 Featured Work
@@ -38,11 +38,14 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 - 🔗 [Project Two](https://github.com/your-username/project-two) – Tech stack + what you solved.
 - 🔗 [Project Three](https://github.com/your-username/project-three) – Any live demo link if available.
 
-## 🧩 Experience
+🧩 Experience
 
-- **Company A** – Role, key responsibilities, notable achievements.
-- **Company B** – Same idea, keep it concise and impact-focused.
--->
+**	Ventix System Inc (Government of Alberta), ON - Senior Full Stack Developer
+**	CAPCO (Intact Financial) Toronto, ON - Senior Consultant/Lead Developer
+**	LTIMindtree(Citi Bank), ON - Senior Developer/Tech Lead
+**	Tata Consultancy Services, [Mumbai, United Kingdom, Singapore, Toronto] - Senior Software Developer/Technical Lead
+**	IRIS Business Services Ltd - Application/Full Stack Developer
+
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/viren-patel-88964745/
