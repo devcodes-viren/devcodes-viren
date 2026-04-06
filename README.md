@@ -27,17 +27,20 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 - **Databases:** SQL Server, Azure SQL, Cosmos
 - **Other:** Git, GitHub, REST APIs, microservices
 
- 🚀 Featured Work
+
+## 🚀 Featured Work
 
 🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal Party
 
-🧩 Experience
+
+## 🧩 Experience
 
 - **Vantix System Inc (Government of Alberta)**, ON - Senior Full Stack Developer
 - **CAPCO (Intact Financial)** Toronto, ON - Senior Consultant/Lead Developer
 - **LTIMindtree(Citi Bank)**, ON - Senior Developer/Tech Lead
 - **Tata Consultancy Services**, [Mumbai, United Kingdom, Singapore, Toronto] - Senior Software Developer/Technical Lead
 - **IRIS Business Services Ltd** - Application/Full Stack Developer
+
 
 ## 📫 Connect
 
