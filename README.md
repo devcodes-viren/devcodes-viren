@@ -33,11 +33,11 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 
 🧩 Experience
 
-**	Ventix System Inc (Government of Alberta), ON - Senior Full Stack Developer
-**	CAPCO (Intact Financial) Toronto, ON - Senior Consultant/Lead Developer
-**	LTIMindtree(Citi Bank), ON - Senior Developer/Tech Lead
-**	Tata Consultancy Services, [Mumbai, United Kingdom, Singapore, Toronto] - Senior Software Developer/Technical Lead
-**	IRIS Business Services Ltd - Application/Full Stack Developer
+- **Ventix System Inc (Government of Alberta)**, ON - Senior Full Stack Developer
+- **CAPCO (Intact Financial)** Toronto, ON - Senior Consultant/Lead Developer
+- **LTIMindtree(Citi Bank)**, ON - Senior Developer/Tech Lead
+- **Tata Consultancy Services**, [Mumbai, United Kingdom, Singapore, Toronto] - Senior Software Developer/Technical Lead
+- **IRIS Business Services Ltd** - Application/Full Stack Developer
 
 ## 📫 Connect
 
