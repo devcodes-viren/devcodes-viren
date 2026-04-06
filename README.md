@@ -31,13 +31,6 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 
 🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal Party
 
-<!--
-## 🚀 Featured Work
-
-- 🔗 [Project One](https://github.com/your-username/project-one) – Short description of what it does and why it’s interesting.
-- 🔗 [Project Two](https://github.com/your-username/project-two) – Tech stack + what you solved.
-- 🔗 [Project Three](https://github.com/your-username/project-three) – Any live demo link if available.
-
 🧩 Experience
 
 **	Ventix System Inc (Government of Alberta), ON - Senior Full Stack Developer
