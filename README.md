@@ -27,6 +27,10 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 - **Databases:** SQL Server, Azure SQL, Cosmos
 - **Other:** Git, GitHub, REST APIs, microservices
 
+ 🚀 Featured Work
+
+🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal
+
 <!--
 ## 🚀 Featured Work
 
