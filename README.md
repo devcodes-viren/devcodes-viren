@@ -31,6 +31,7 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 ## 🚀 Featured Work
 
 🔗 [Baby Kiosk](https://github.com/devcodes-viren/babyKisok) – Baby Kiosk app which is popular in Gender Reveal Party
+🔗 [Client Details] (https://github.com/devcodes-viren/client-details-app) - Fetch client details using React/FastAPI
 
 
 ## 🧩 Experience
