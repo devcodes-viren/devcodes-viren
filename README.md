@@ -34,6 +34,8 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 
 🔗 [Client Details](https://github.com/devcodes-viren/client-details-app) - Fetch client details using React/FastAPI
 
+🔗 [Client Details with Angular migration](https://github.com/devcodes-viren/client-details-angular-fastApi) - Fetch client details using Angular/Signals/FastAPI
+
 
 ## 🧩 Experience
 
