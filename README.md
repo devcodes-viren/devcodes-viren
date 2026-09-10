@@ -21,10 +21,10 @@ I have worked on enterprise products, complex frontends, and cloud-native backen
 ## 🛠️ Technologies & Tools
 
 - **AI:** (Org approved) GitHub Copilot, Copilot Chat, Active Prompts, Microsoft Copilot, ChatGPT (OpenAI), AI-assisted code review
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS
-- **Backend:** .NET, Node.js
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS, Next.js
+- **Backend:** .NET, Node.js, FastAPI, NestJs
 - **Cloud & DevOps:** Azure, CI/CD, Docker, Kubernetes
-- **Databases:** SQL Server, Azure SQL, Cosmos
+- **Databases:** SQL Server, Azure SQL, Cosmos, MySQL
 - **Other:** Git, GitHub, REST APIs, microservices
 
 
