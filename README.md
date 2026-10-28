@@ -13,20 +13,77 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I am Viren 👋
+Hi, I'm Viren 👋
 
-Senior Software Engineer with 14+ years of experience building scalable web applications and cloud solutions.  
-I have worked on enterprise products, complex frontends, and cloud-native backends owning features end-to-end. Leveraging Approved AI tools like GitHub Copilot, Copilot Chat, Microsoft Copilot, and ChatGPT to accelerate architecture design, code quality, refactoring, and problem‑solving. 
+Senior Software Engineer with 14+ years of experience designing and building enterprise applications, cloud-native solutions, and scalable web platforms.
 
-## 🛠️ Technologies & Tools
+Specializing in Angular, React .NET, Azure, and Nx Monorepo architecture with hands-on experience delivering Government and Enterprise solutions.
 
-- **AI:** (Org approved) GitHub Copilot, Copilot Chat, Active Prompts, Microsoft Copilot, ChatGPT (OpenAI), AI-assisted code review
-- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS, Next.js
-- **Backend:** .NET, Node.js, FastAPI, NestJs
-- **Cloud & DevOps:** Azure, CI/CD, Docker, Kubernetes
-- **Databases:** SQL Server, Azure SQL, Cosmos, MySQL
-- **Other:** Git, GitHub, REST APIs, microservices
+Passionate about developer productivity, AI-assisted development, system design, and modern application architecture.
 
+## 🚀 Enterprise Engineering Experience
+
+✔ Enterprise Web Applications
+✔ Angular & React Development
+✔ Nx Monorepo Architecture
+✔ GovAlta Design System & UI Components
+✔ Cloud-Native Application Development
+✔ Microservices & REST API Design
+✔ CI/CD & DevOps Automation
+✔ Containerization with Docker & Kubernetes
+✔ AI-Assisted Development & Code Reviews
+✔ Scalable Database Solutions
+
+## 🛠️ Technology Stack
+
+### 🤖 AI & Developer Productivity
+- GitHub Copilot
+- Copilot Chat
+- Active Prompts
+- Microsoft Copilot
+- ChatGPT (OpenAI)
+- AI-Assisted Code Reviews
+
+### 🎨 Frontend
+- Angular v20+
+- React v19
+- TypeScript
+- JavaScript
+- Next.js
+- HTML5
+- CSS/SCSS
+- RxJs
+
+### ⚙️ Backend
+- .NET
+- Node.js
+- NestJS
+- FastAPI
+- REST APIs
+- Microservices
+
+### ☁️ Cloud & DevOps
+- Microsoft Azure
+- Azure DevOps
+- GitHub Actions
+- CI/CD Pipelines
+- Docker
+- Kubernetes
+
+### 🗄️ Databases
+- SQL Server
+- Azure SQL
+- PostgreSQL
+- Azure Cosmos DB
+- MySQL
+
+### 🏗️ Architecture & Tools
+- Nx Monorepos
+- Enterprise UI Components
+- Git
+- GitHub
+- Enterprise Application Architecture
+- API-First Development
 
 ## 🚀 Featured Work
 
