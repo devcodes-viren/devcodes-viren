@@ -55,7 +55,7 @@ Passionate about developer productivity, AI-assisted development, system design,
 - RxJs
 
 ### ⚙️ Backend
-- .NET
+- .NET (C#)
 - Node.js
 - NestJS
 - FastAPI
